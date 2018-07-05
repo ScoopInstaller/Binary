@@ -1,0 +1,9 @@
+https://www.virustotal.com/de/file/7fb45b8ac6971cbe98d6935203e956865cd258ba02a1ac20bce07adab8dbe582/analysis/ *unlocker1.9.0-portable.zip
+https://www.virustotal.com/de/file/b9df34c6263b0eb26b186a50ec87a7c8bbe22cfe87b5ee8337701494cc0e720c/analysis/ *unlocker1.9.0-portable\README.TXT
+https://www.virustotal.com/de/file/0c44365761c09c19f3c2c4edce69d2caf64aa927e34db2c71d46db86dfbf98c8/analysis/ *unlocker1.9.0-portable\x64\Unlocker.exe
+https://www.virustotal.com/de/file/ca7176fc219515d58dcfa66ec61880ece5617275c9b83701bb74d8b60e733d34/analysis/ *unlocker1.9.0-portable\x64\UnlockerDriver5.sys
+https://www.virustotal.com/de/file/1de4aae11d0fbb75e7abfcc14212deabde404a4671d3de7f8124f370fbd865cf/analysis/ *unlocker1.9.0-portable\x64\UnlockerInject32.exe
+https://www.virustotal.com/de/file/9acec97ccabadffcf774b58b0b12de531ab541c6530069b1664270bdedc1051f/analysis/ *unlocker1.9.0-portable\x86\Unlocker.exe
+https://www.virustotal.com/de/file/b0a4c2b6f40d7ad177dbd40c26b579d67cc9a95552970d9f6f0c7de372ce2a2f/analysis/ *unlocker1.9.0-portable\x86\UnlockerAssistant.exe
+https://www.virustotal.com/de/file/2a24e6cd5d6e0cea3082c0699a2371084cc1268b31bc714098ea0d0c11b3afac/analysis/ *unlocker1.9.0-portable\x86\UnlockerDriver5.sys
+https://www.virustotal.com/de/file/af36ab81c5befe41140a5da5f605361be18b55d6410da1cbf1bf7e0dcf52bc92/analysis/ *unlocker1.9.0-portable\x86\UnlockerHook.dll
